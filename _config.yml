@@ -1,8 +1,8 @@
 site: Drianodev - Blog
 title: Drianodev - Blog
-greetings: Hello there! 👋
+greetings: Olá estranho! 👋
 description: >-
-  just a minimalist, personal blog
+  Um universo só meu.
 lang: pt-BR
 timezone:  America/Sao_Paulo
 repo: https://github.com/drianodev/blog # site repo [optional]
@@ -12,14 +12,14 @@ comments-enabled: false # true to enable disqus comments, false to hide them
 
 author:
   name: blog
-  bio: just a minimalist, personal blog
+  bio: Um universo só meu.
   userpicture: 
   username: drianodev # general username
   github: drianodev # github username
   twitter: # twitter username
-  mastodon: # mastodon profile (ex. mastodon.social/@my_username)
-  linkedin: # linkedin profile
-  email: your-email@email.com # email adress
+  # mastodon: # mastodon profile (ex. mastodon.social/@my_username)
+  linkedin: drianolma # linkedin profile
+  email: adrianomendes661@gmail.com # email adress
 
 # Font Settings
 googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
