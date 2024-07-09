@@ -2,10 +2,12 @@
 layout: post
 title: Quem sou eu?
 description: Antes de seguir as ideias de um doidão na internet, é importante conhecê-lo.
-summary: 
-tags: 
-minute:
+summary: Saudações, faculdade
+tags:
+  - carreira
+minute: "5"
 ---
+# Saudações
 Primeiramente, seja bem-vindo ao meu mundo!
 
 Antes de tudo, quero me apresentar, afinal, não nos conhecemos. Quero me apresentar e combinar um formato aqui, que tal?
@@ -14,7 +16,7 @@ Bom, me chamo Adriano e atualmente estou no fim do curso de Ciência da Computa�
 
 O formato deste blog será bem informal, bem a minha cara, o que significa que:
 
-- Vou usar emoji como um tiozão do zap.
+- Vou usar emoji como um tiozão do zap. 
 - Vou escrever errado.
 - Vou usar gif, pois eu adoro.
 
@@ -31,22 +33,24 @@ public class Main {
 }
 ```
 
-### Um breve resumo de como resolvi "escolher essa área"
+# Um breve resumo de como resolvi "escolher essa área"
 Sempre fui fascinado por tecnologia. Era a criança que não saía da frente do videogame. Mas TI não foi a primeira das minhas escolhas; cheguei a considerar diversas opções antes de escolher Ciência da Computação. E para chegar a essa decisão, devo isso ao Linux, isso mesmo, o SO.
 
-Em 2019, estava no ensino médio e escolhi um notebook com Linux. Na minha cabeça, estava tudo ok, dava para estudar, mas não sabia das pequenas dificuldades que teria pela frente. O Ubuntu não era muito amigável na sua loja de aplicativos e, muitas vezes, era necessário instalar via terminal. Claro que, como leigo, sempre pesquisava antes. Infelizmente, um dia aconteceu. Não lembro bem do erro, mas era relacionado ao `dpkg` (gerenciador de pacotes no Linux). Fui atrás de ajuda com um profissional de TI que conhecia e a dica que recebi foi "pesquise o erro". Logo fui atrás de resolver e, adivinhe? Consegui. Isso me deixou tão satisfeito e animado que logo pedi dicas para estudar programação, e foi aí que tudo começou.
+## Solucionar problemas me fez chegar aqui
+Em 2019, comprei um notebook com Linux. Na minha cabeça, estava tudo ok, dava para estudar, mas não sabia das pequenas dificuldades que teria pela frente. O Ubuntu não era muito amigável na sua loja de aplicativos e, muitas vezes, era necessário instalar via terminal. Claro que, como leigo, sempre pesquisava antes. Infelizmente, um dia aconteceu. Não lembro bem do erro, mas era relacionado ao `dpkg` (gerenciador de pacotes no Linux). Fui atrás de ajuda com um profissional de TI que conhecia e a dica que recebi foi "pesquise o erro". Isso explodiu minha mente, fui atrás de resolver e, adivinha? Consegui. Isso me deixou tão satisfeito e animado que logo pedi dicas para estudar programação, e foi aí que tudo começou.
 
-### Comecei a programar, e agora?
-Iniciei na programação estudando por conta própria Java. Quando prestei vestibular em 2020, estava focado em entrar no curso de Ciência da Computação. Já tinha pesquisado bastante sobre graduações na área de TI. Ao longo do curso, mergulhei profundamente nesse mundo, fiz diversos bootcamps e cursos.
+## Comecei a programar, e agora?
+Iniciei na programação estudando por conta própria Java. Quando prestei vestibular em 2020, estava focado em entrar no curso de Ciência da Computação. Já tinha pesquisado bastante sobre graduações na área de TI. 
 
-Minha trajetória profissional começou em setembro de 2021, quando tive a oportunidade de atuar como Bolsista de Iniciação Científica PIBIC/CNPq. Era uma Plataforma de Internet das Coisas (IoT) voltada para o monitoramento de saúde, que me proporcionou uma imersão valiosa em tecnologias como Python e TensorFlow para Machine Learning, além de desenvolvimento mobile com Kotlin para Android.
+# Entrei na faculdade
+Ao longo do curso, mergulhei profundamente nesse mundo, fiz diversos bootcamps e cursos. 
 
-Em abril de 2022, procurando me encaixar na área, consegui uma oportunidade como Analista de Testes. É daí que vem toda minha experiência com testes. Fui tomando mais responsabilidades e me tornei QA logo mais.
+Minha trajetória profissional começa dentro da própria universidade em setembro de 2021, quando tive a oportunidade de atuar como Bolsista de Iniciação Científica (PIBIC). Atuei em uma Plataforma de Internet das Coisas (IoT) voltada para o monitoramento de saúde, que me proporcionou uma imersão valiosa em tecnologias como Python e TensorFlow para Machine Learning, além de desenvolvimento mobile com Kotlin para Android.
 
-Buscando novos desafios, em janeiro de 2023 consegui um estágio como Desenvolvedor Full-Stack. Aprendi bastante sobre desenvolvimento, atuei com JavaScript utilizando React no front-end e Java com Spring Boot no back-end. Essa experiência ampliou muito minha visão do Java, mesmo "odiando" é onde encontrei realmente algo que gosto.
+Em abril de 2022, procurando me encaixar na área, consegui uma oportunidade como Analista de Testes. É daí que vem toda minha experiência com testes. Fui tomando mais responsabilidades e logo me tornei QA.
 
-Em fevereiro de 2024, aceitei uma nova oportunidade em uma startup como Desenvolvedor Jr. Full-Stack. E logo mais quero comentar sobre ambientes de trabalho por aqui, tenho muito o que relatar.
+Buscando novos desafios, em janeiro de 2023 consegui um estágio como Desenvolvedor Full-Stack. Aprendi bastante sobre desenvolvimento, atuei com JavaScript utilizando React e Java com Spring Boot. Essa experiência ampliou muito minha visão do Java, mesmo "odiando" é onde me encontrei.
 
-Atualmente, estou como Desenvolvedor Jr. Backend, onde continuo a desenvolver minhas habilidades e a contribuir para projetos inovadores. Minha jornada tem sido repleta de aprendizados e desafios, cada um deles fortalecendo minha paixão por desenvolver software de qualidade e minha capacidade de trabalhar colaborativamente em equipe.
+Em fevereiro de 2024, estava em uma busca (quase desesperada) por oportunidade na área, aceitei uma proposta em uma startup como Desenvolvedor Jr. Full-Stack. Mas acabei recebendo outras respostas de processos que me candidatei e atualmente estou como Desenvolvedor Jr. Backend. 
 
-Ao longo dessa trajetória, aprendi que a chave para o sucesso está na combinação de conhecimento técnico, colaboração eficaz e uma paixão incessante por aprender e inovar. Estou animado para continuar essa jornada e ver onde ela me levará a seguir, sempre buscando novas formas de contribuir para o campo da tecnologia e melhorar a vida das pessoas através do software.
+Ao longo dessa trajetória, aprendi bastante, sei onde errei. E é por isso que estou aqui, quero ajudar você!
